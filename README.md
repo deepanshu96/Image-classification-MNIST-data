@@ -4,3 +4,5 @@
 ![LeNet-5 Architecture](lenet.png)
 Implement the LeNet-5 deep neural network model.
 
+
+- MNIST Image Classification Model - [Code File](https://github.com/deepanshu96/Image-classification-MNIST-data/blob/master/LeNet-Lab.ipynb)
